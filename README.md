@@ -11,7 +11,7 @@ Prospect Pro AI is an intelligent lead generation and scoring system designed to
 #### **How to Run**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo/prospect-pro-ai.git
+   git clone https://github.com/Prospect-AI/prospect-pro-ai.git
    cd prospect-pro-ai
    ```  
 2. Install dependencies:  
