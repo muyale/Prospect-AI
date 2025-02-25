@@ -29,6 +29,7 @@ Prospect Pro AI is an intelligent lead generation and scoring system designed to
 3. Run the AI model:  
    ```bash
    python prospect.py
+   streamlit run streamlit_app.py
    ```  
 
 #### **Outputs**  
