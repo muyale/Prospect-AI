@@ -1,0 +1,4 @@
+cluster,lead_score_mean,lead_score_median,lead_score_std,website_visits_mean,email_clicks_mean,conversion_rate_mean,Recommendation
+0,1.0,1.0,0.0,5084.958579881657,243.9792899408284,0.5173619143086834,High potential. Recommend aggressive multi-channel marketing and highly personalized outreach.
+1,1.0,1.0,0.0,8389.685878962537,255.35446685878964,0.46379546187119,High potential. Recommend aggressive multi-channel marketing and highly personalized outreach.
+2,0.9504654768340535,1.0,0.21091897418428182,1754.5269841269842,262.6380952380952,0.46720437523959457,High potential. Recommend aggressive multi-channel marketing and highly personalized outreach.

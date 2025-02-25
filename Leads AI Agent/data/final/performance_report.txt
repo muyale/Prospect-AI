@@ -1,0 +1,5 @@
+Total Leads: 10000
+Average Lead Score: 0.42
+Median Lead Score: 0.02
+Standard Deviation of Lead Score: 0.47
+Average Conversion Rate: 0.47

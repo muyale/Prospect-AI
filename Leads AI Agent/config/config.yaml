@@ -1,0 +1,2 @@
+hf_model: "mistralai/Mistral-7B-v0.1"
+use_auth_token: true
